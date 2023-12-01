@@ -17,6 +17,6 @@ spec:
       containers:
         - name: my-container
           imagePullPolicy: Always
-          image: ravindrasingh6969/my-app:latest
+          image: shitalkumar58627/jenkins123:latest
           ports:
             - containerPort: 80
